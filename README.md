@@ -1,7 +1,7 @@
 
-# For more active development/deployments, code is moved to [https://github.com/gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in)
+# For more active development/deployments, code is moved to [https://www.linkedin.com/in/murukonda-sravanthi-82ba56285/](https://www.linkedin.com/in/murukonda-sravanthi-82ba56285/)
 
-### <p align="center"><img width="150px" height="150px" src="https://raw.githubusercontent.com/code-kotis/qr-code-scanner/master/app/images/touch/android-chrome-192x192.png"></p>
+
 
 # [QR Code Scanner](https://qrcodescan.in)
 
@@ -23,7 +23,7 @@
 1. Clone this repo
 
   ```bash
-  git clone https://github.com/code-kotis/qr-code-scanner
+  git clone https://github.com/Sravanthiworld/qr/
   ```
 
 2. Installation
