@@ -1,5 +1,5 @@
 
-# For more active development/deployments, code is moved to [https://www.linkedin.com/in/murukonda-sravanthi-82ba56285/](https://www.linkedin.com/in/murukonda-sravanthi-82ba56285/)
+# For more active development/deployments, code is moved to [https://github.com/Sravanthiworld/qr](https://github.com/Sravanthiworld/qr)
 
 
 
